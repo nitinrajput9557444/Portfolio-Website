@@ -97,6 +97,30 @@ const PORTFOLIO_CONFIG = {
             link: "",
             image: "",
         },
+        {
+            title: "Institute Management System",
+            tag: "Python Desktop Project",
+            tools: ["Python", "Tkinter", "MySQL"],
+
+            description: "Developed a desktop-based Institute Management System to manage students, teachers, and courses with a graphical user interface and MySQL database integration.",
+
+            highlights: [
+                "Admin Login Authentication System",
+                "Student Management (Add / Delete / View Records)",
+                "Teacher Management with salary tracking",
+                "Course Management with duration and fee details",
+            ],
+
+            analysis: [
+                "Tkinter GUI used to create interactive desktop forms",
+                "MySQL database used for storing and retrieving institute records",
+                "Treeview tables used to display student, teacher, and course data",
+                "CRUD operations implemented for efficient data management",
+            ],
+
+            link: "",        // add GitHub repo link here
+            image: ""        // add project screenshot here
+        }
     ],
 
     // ── SKILLS ────────────────────────────────────────────────
