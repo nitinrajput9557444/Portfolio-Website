@@ -143,8 +143,9 @@ const PORTFOLIO_CONFIG = {
     // ── CERTIFICATIONS / ACHIEVEMENTS ─────────────────────────
     // Leave empty [] to hide this section
     certifications: [
-        // { title: "Google Data Analytics Certificate", issuer: "Google / Coursera", year: "2024", link: "" },
-        // { title: "SQL for Data Science",              issuer: "UC Davis / Coursera", year: "2024", link: "" },
+        { title: "SQL (Basic) Certificate",        issuer: "HackerRank", year: "Jan 2026", link: "https://www.hackerrank.com/certificates/8cfb21d8dbf7" },
+        { title: "SQL (Intermediate) Certificate", issuer: "HackerRank", year: "Jan 2026", link: "https://www.hackerrank.com/certificates/8f032f1c029c" },
+        { title: "SQL (Advanced) Certificate",     issuer: "HackerRank", year: "Mar 2026", link: "https://www.hackerrank.com/certificates/bccfb789b37c" },
     ],
 
     // ── THEME ─────────────────────────────────────────────────
