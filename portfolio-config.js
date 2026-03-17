@@ -143,7 +143,7 @@ const PORTFOLIO_CONFIG = {
     // ── CERTIFICATIONS / ACHIEVEMENTS ─────────────────────────
     // Leave empty [] to hide this section
     certifications: [
-        { title: "Data Analytics Certificate", issuer: "MCEI (Mittal Computer Education Industry), Agra", year: "Jul 2025 – Dec 2025", link: "" },
+        { title: "Data Analytics Certificate", issuer: "MCEI (Mittal Computer Education Industry), Agra", year: "Jul 2025 - Dec 2025", link: "https://drive.google.com/file/d/17poiVizR7YwmJ-hvun78r7c0F431HvWA/view?usp=sharing" },
         { title: "SQL (Basic) Certificate", issuer: "HackerRank", year: "Jan 2026", link: "https://www.hackerrank.com/certificates/8cfb21d8dbf7" },
         { title: "SQL (Intermediate) Certificate", issuer: "HackerRank", year: "Jan 2026", link: "https://www.hackerrank.com/certificates/8f032f1c029c" },
         { title: "SQL (Advanced) Certificate", issuer: "HackerRank", year: "Mar 2026", link: "https://www.hackerrank.com/certificates/bccfb789b37c" },
